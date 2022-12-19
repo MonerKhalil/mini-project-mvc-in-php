@@ -1,0 +1,17 @@
+{
+    "name": "php/mini-mvc-framework",
+    "autoload": {
+        "psr-4": {
+            "myApp\\": "./"
+        }
+    },
+    "authors": [
+        {
+            "name": "MonerKhalil",
+            "email": "99900475+MonerKhalil@users.noreply.github.com"
+        }
+    ],
+    "require": {
+      "ext-pdo": "*"
+    }
+}
